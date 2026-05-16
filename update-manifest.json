@@ -1,0 +1,14 @@
+{
+  "versionCode": 89,
+  "versionName": "1.1.93",
+  "apkUrl": "https://github.com/feng6274/xiaofu-camera-release/releases/latest/download/xiaofu-camera.apk",
+  "apkSizeBytes": 6650246,
+  "title": "发现新版本",
+  "message": "检测到外调小帮手新版本，建议立即更新。",
+  "force": false,
+  "releaseNotes": [
+    "1、修复大 DBF 的 SHP 压缩包导入后无法选择标注字段的问题",
+    "2、新增图层颜色选择，可在图层管理中点击颜色圆点修改",
+    "3、新增注记文字颜色选择，可在标注字段弹窗中修改"
+  ]
+}
